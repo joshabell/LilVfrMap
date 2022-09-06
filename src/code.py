@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2022 Joshua Abell 
 #
-# SPDX-License-Identifier: MIT
-#
+# SPDX-License-Identifier: BSD-3-Clause
+# 
 
 """Little VFR/IFR Map"""
 
