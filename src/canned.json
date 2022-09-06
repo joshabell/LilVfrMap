@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "barometer": {
+        "hg": 30.04,
+        "hpa": 1017,
+        "kpa": 101.73,
+        "mb": 1017.32
+      },
+      "clouds": [
+        {
+          "base_feet_agl": 2400,
+          "base_meters_agl": 732,
+          "code": "SCT",
+          "feet": 2400,
+          "meters": 732,
+          "text": "Scattered"
+        }
+      ],
+      "dewpoint": {
+        "celsius": 17,
+        "fahrenheit": 63
+      },
+      "elevation": {
+        "feet": 92,
+        "meters": 28
+      },
+      "flight_category": "LIFR",
+      "humidity": {
+        "percent": 69
+      },
+      "icao": "KBVY",
+      "observed": "2022-08-27T21:28Z",
+      "raw_text": "KBVY 272128Z 12009KT 10SM SCT024 23/17 A3004 RMK AO2 T02330172",
+      "station": {
+        "geometry": {
+          "coordinates": [
+            -70.916496,
+            42.584202
+          ],
+          "type": "Point"
+        },
+        "location": "Beverly / Danvers, MA, USA",
+        "name": "Beverly Regional Airport",
+        "type": "Airport"
+      },
+      "temperature": {
+        "celsius": 23,
+        "fahrenheit": 73
+      },
+      "visibility": {
+        "meters": "16,100",
+        "meters_float": 16100,
+        "miles": 10,
+        "miles_float": 10
+      },
+      "wind": {
+        "degrees": 120,
+        "speed_kph": 17,
+        "speed_kts": 9,
+        "speed_mph": 10,
+        "speed_mps": 5
+      }
+    }
+  ],
+  "results": 1
+}

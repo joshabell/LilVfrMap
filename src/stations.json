@@ -1,0 +1,65 @@
+{
+ "refresh_rate" : 10,
+ "list" : [
+    {
+        "icao" : "KACK",
+        "led" : 0,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KMVY",
+        "led" : 1,
+        "favorite" : false
+    },
+    {
+        "icao" : "KBDL",
+        "led" : 2,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KGHG",
+        "led" : 3,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KBOS",
+        "led" : 4,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KBVY",
+        "led" : 5,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KPSM",
+        "led" : 6,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KPWM",
+        "led" : 7,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KBXM",
+        "led" : 8,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KBTV",
+        "led" : 9,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KEEN",
+        "led" : 10,
+        "favorite" : false   
+    },
+    {
+        "icao" : "KASH",
+        "led" : 11,
+        "favorite" : false   
+    }
+ ]   
+}
